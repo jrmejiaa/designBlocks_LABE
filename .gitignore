@@ -50,3 +50,11 @@ eagle.epf
 
 # file locks introduced since 7.x
 *.lck
+
+*.d#3
+
+*.d#2
+
+*.d#1
+
+*.d##
